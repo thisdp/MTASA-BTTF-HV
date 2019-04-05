@@ -1,0 +1,65 @@
+<meta>
+    <info type="script" name="BackToTheFuture" author="Thisdp" version="2.0.0" />
+    <script src="vehiclelights.lua" />
+	<script src="settings.lua" type="shared"/>
+    <script src="server.lua" type="server" />
+    <script src="RC.lua" type="server" />
+    <script src="client.lua" type="client" />
+	<include resource="corona" />
+    <file src="tp.fx" type="client"  />
+    <file src="ds.ttf" type="client"  />
+    <file src="vehlighton.png" type="client"  />
+    <file src="shaders/coil.fx" type="client"  />
+    <file src="models/bttf1.dff" type="client"  />
+    <file src="models/bttf2.dff" type="client"  />
+    <file src="models/bttf2_fly.dff" type="client"  />
+    <file src="models/bttf3.dff" type="client"  />
+    <file src="models/bttf4.dff" type="client"  />
+    <file src="models/bttf_12.txd" type="client"  />
+    <file src="models/bttf_34.txd" type="client"  />
+    <file src="sounds/hover_off.ogg" type="client"  />
+    <file src="sounds/boost.ogg" type="client"  />
+    <file src="sounds/timetraveli.ogg" type="client"  />
+    <file src="sounds/hover_on.ogg" type="client"  />
+    <file src="sounds/hover.ogg" type="client"  />
+    <file src="sounds/engine_off.ogg" type="client"  />
+    <file src="sounds/engine_on.ogg" type="client"  />
+    <file src="sounds/pre_travel.ogg" type="client"  />
+    <file src="sounds/door_open.ogg" type="client"  />
+    <file src="sounds/door_close.ogg" type="client"  />
+    <file src="sounds/mrfusion.ogg" type="client"  />
+    <file src="sounds/plutonium.ogg" type="client"  />
+    <file src="sounds/vent.ogg" type="client"  />
+    <file src="sounds/cold.ogg" type="client"  />
+    <file src="sounds/on.ogg" type="client"  />
+    <file src="sounds/off.ogg" type="client"  />
+    <file src="sounds/1.ogg" type="client"  />
+    <file src="sounds/2.ogg" type="client"  />
+    <file src="sounds/3.ogg" type="client"  />
+    <file src="sounds/4.ogg" type="client"  />
+    <file src="sounds/5.ogg" type="client"  />
+    <file src="sounds/6.ogg" type="client"  />
+    <file src="sounds/7.ogg" type="client"  />
+    <file src="sounds/8.ogg" type="client"  />
+    <file src="sounds/9.ogg" type="client"  />
+    <file src="sounds/0.ogg" type="client"  />
+    <file src="sounds/enter.ogg" type="client"  />
+    <file src="sounds/error.ogg" type="client"  />
+    <file src="sounds/empty.ogg" type="client"  />
+    <file src="sounds/timetravelcutscene.ogg" type="client"  />
+    <file src="sounds/sparks_bttf3.ogg" type="client"  />
+    <file src="models/hotrinb.dff" type="client"  />
+    <file src="models/doc1.txd" type="client"  />
+    <file src="models/marty1.txd" type="client"  />
+    <file src="models/doc2.txd" type="client"  />
+    <file src="models/marty2.txd" type="client"  />
+    <file src="models/bttfmod.dff" type="client"  />
+    <file src="speedo3d.png" type="client"  />
+    <file src="TCD.png" type="client"  />
+    <file src="empty.png" type="client"  />
+	<oop>true</oop>
+    <config src="help.xml" />
+    <settings>
+        <setting name="*Year" value="[true]" />
+    </settings>
+</meta>
